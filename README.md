@@ -86,14 +86,6 @@ flight-route-optimization/
 | Visualization Clarity         | Interactive graphs via Plotly|
 
 ---
-
-## 🖼️ Sample Output
-
-> ![Sample Route](visualizations/sample_route_plot.png)  
-> *Optimized route vs historical path between JFK (New York) and LHR (London Heathrow)*
-
----
-
 ## 🔭 Future Scope
 
 - 🌦️ Add **weather-based rerouting** using meteorological APIs  
