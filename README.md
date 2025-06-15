@@ -30,7 +30,7 @@ To optimize airline routes between airports by applying **Dijkstra's** and **Flo
 |------------------|------------------------------------------------|
 | Programming      | Python                                         |
 | Graph Algorithms | NetworkX, Custom Dijkstra & Floyd-Warshall    |
-| APIs             | Aviationstack / AeroDataBox / AviationAPI     |
+| APIs             | Aviation Edge  |
 | Data Handling    | Pandas, NumPy                                  |
 | Visualization    | Matplotlib, Plotly                             |
 
